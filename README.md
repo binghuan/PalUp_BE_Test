@@ -1,6 +1,7 @@
 # PalUp_BE_Test
 
-A RESTful API built in Go that converts an array from the request body into a linked list. This repository demonstrates the implementation of HTTP request handlers, middleware, and unit testing for API endpoints. [👉 coding question](https://github.com/binghuan/PalUp_BE_Test/blob/main/PalUp_BE_Test_readMe.MD)
+A RESTful API built in Go that converts an array from the request body into a linked list. This repository demonstrates the implementation of HTTP request handlers, middleware, and unit testing for API endpoints.   
+[👉 coding question](https://github.com/binghuan/PalUp_BE_Test/blob/main/PalUp_BE_Test_readMe.MD) from [palup-ai](https://www.linkedin.com/company/palup-ai/posts/?feedView=all)
 
 - [PalUp\_BE\_Test](#palup_be_test)
   - [Features](#features)
